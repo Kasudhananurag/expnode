@@ -1,0 +1,15 @@
+{
+  "name": "expnode",
+  "version": "1.0.0",
+  "description": "Learning express for the very first time",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Anurag Kasudhan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
